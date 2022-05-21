@@ -9,7 +9,7 @@ I'm an Android Application developer by profession. I'm currently working at Cou
 - Twitter - https://twitter.com/rdias002
 
 
-![Views](https://komarev.com/ghpvc/?username=rdias002&color=blue)
+![](https://hit.yhype.me/github/profile?user_id=23294845)
 
 
 <!---
