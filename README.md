@@ -4,7 +4,7 @@ Hi 👋 My name is Ralph Dias
 Android Developer
 -----------------
 
-I am an inquisitive BSc graduate who loves programming and problem solving. I've been working on Android since the last 5 years and my learning continues. I'm currently working as an Android Dev at CoutLoot, an e-commerce platform connecting sellers and consumers across India. I love working on the latest offerings in the tech industry and constantly try to keep myself updated with the same. In my free time I'm almost always either binge watching some TV series or playing Valorant.
+I am an inquisitive BSc graduate who loves programming and problem solving. I've been developing on Android since the last 5 years and my learning continues. I'm currently working as an Android Dev at Turtlemint, an Insurance-tech company. I love working on the latest offerings in the tech industry and constantly try to keep myself updated with the same. In my free time I'm almost always either binge watching some TV series or playing Valorant.
 
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at [rdias002@gmail.com](mailto:rdias002@gmail.com)
